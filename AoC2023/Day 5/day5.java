@@ -57,9 +57,7 @@ public class day5 {
         mergeRanges(ranges);
 
         for (Garden gm : maps) {
-            //System.out.println("\napply " + gm);
             ranges = gm.map(ranges);
-            //printRanges(ranges);
         }
         System.out.println("p2: " + ranges.getFirst().start);
     }
