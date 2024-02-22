@@ -22,4 +22,17 @@ It was quick to pick up on but still quite the challenge.
 
 ### [Day 4](https://adventofcode.com/2023/day/4) - Ruby
 
+I really enjoy Ruby! I started doing the 2015 AoC in exclusively Ruby
+I feel that there will be a few repeats of Ruby in this AoC just because I like it so much.
+
+### [Day 5](https://adventofcode.com/2023/day/5) - Java
+
+No.
+
+### [Day 6](https://adventofcode.com/2023/day/6) - Ruby (again)
+
+The first Ruby repeat. It was an interesting program.
+The new Ruby techniques and skills I have gathered from the 2015 AoC came in handy
+
+### [Day 7](https://adventofcode.com/2023/day/7) - Rust
 
