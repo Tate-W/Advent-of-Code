@@ -10,8 +10,8 @@ Eventually, I will return to AoC2023 and finish the random languages, or maybe I
 **This repo will be holding every day of AoC from each year that I do, from now on for as long as I participate in AoC.**
 
 I should also mention that most of the puzzles just have the finished Part 2, others have them seperated as comments and some are just implemented as add-on functions or within the main body.
-I was just too lazy to code in a whole new Part 2 function if all I had to do was change like 1 variable value or some simple addition. 
-[AoC2023 - Day 6](https://github.com/Tate-W/Advent-of-Code/blob/main/AoC2023/Day%206/day6.rb) is a good example of what I should do versus [AoC2015 - Day 2](https://github.com/Tate-W/Advent-of-Code/blob/main/AoC2015/Day%202/day2.rb) or [AoC2015 - Day 5](https://github.com/Tate-W/Advent-of-Code/blob/main/AoC2015/Day%205/day5.rb)
+I was just too lazy to code in a whole new Part 2 function if all I had to do was change like 1 variable value or some simple add-on. 
+[AoC2023 - Day 6](https://github.com/Tate-W/Advent-of-Code/blob/main/AoC2023/Day%206/day6.rb) is a good example of what I should do versus [AoC2015 - Day 2](https://github.com/Tate-W/Advent-of-Code/blob/main/AoC2015/Day%202/day2.rb) or [AoC2015 - Day 5](https://github.com/Tate-W/Advent-of-Code/blob/main/AoC2015/Day%205/day5.rb), which is mostly what I have done.
 
 There should be (if I get around to it) a README in each year's folder with the used language (for AoC 2023 and if I decide to go random for another year) and thoughts from each puzzle just as a little idea of what I thought about it and what I learned.
 
