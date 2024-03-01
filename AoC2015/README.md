@@ -1,4 +1,4 @@
-# Advent of Code 2015
+# Advent of Code 2015 - Ruby
 
 My solutions for each day of AoC 2015
 
