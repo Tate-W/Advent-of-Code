@@ -6,7 +6,8 @@ I temporarily put a hold on AoC2023 and moved back to the earliest AoC, AoC2015.
 I decided to do all of AoC2015 in Ruby as a way to learn it with fun puzzles.
 When I complete AoC2015, I will move on to AoC2016 in a different language (possibly Rust but I haven't decided yet).
 Eventually, I will return to AoC2023 and finish the random languages, or maybe I will do it in between other years as a way to find a new one to learn more.
-This repo will be holding every day of AoC from each year that I do, from now on for as long as I participate in AoC.
+
+**This repo will be holding every day of AoC from each year that I do, from now on for as long as I participate in AoC.**
 
 There should be (if I get around to it) a README in each year's folder with the used language (for AoC 2023 and if I decide to go random for another year) and thoughts from each puzzle just as a little idea of what I thought about it and what I learned.
 
