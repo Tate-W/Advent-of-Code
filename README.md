@@ -14,3 +14,9 @@ There should be (if I get around to it) a README in each year's folder with the 
 I did use generative AI, such as ChatGPT, at some points of this process as a tool to help with specific issues I was having with the puzzles. 
 I personally think this is the way it should be used for now, but hey maybe in the future I won't have a job.
 ***C’est la Vie***
+
+## Me
+I am a current CompSci student planning to graduate Spring 2025.
+I started college in 2020 as a MechE - Mechatronics major, then dropped Mechatronics, then added an Aquatics minor and dropped it almost immediatly, then switched to CmpE for 2 years, realized I didn't like the topics of the rest of my classes, and finally switched to CompSci with a ECE/CmpE minor after Fall 2023.
+I know, quite the journey, but I am excited for the rest of my classes and that's all that matters to me.
+If you wanna contact me with questions, comments, or language suggestions, you can message me on Discord - dankcrud
