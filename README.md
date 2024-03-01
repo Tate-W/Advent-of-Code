@@ -11,7 +11,7 @@ This repo will be holding every day of AoC from each year that I do, from now on
 There should be (if I get around to it) a README in each year's folder with the used language and thoughts from each puzzle just as a little idea of what the puzzle is about.
 
 ## AI
-I did use generative AI, such as ChatGPT, at some points of this process as a tool to help with specific issues I was having with the puzzles. 
+I did use generative AI, such as ChatGPT, at some points of this process as a tool to help with specific issues I was having with the puzzles. I will try to mention it in the yearly READMEs by day but I may forget. 
 I personally think this is the way it should be used for now, but hey maybe in the future I won't have a job.
 ***C’est la Vie***
 
