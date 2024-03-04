@@ -27,7 +27,7 @@ I feel that there will be a few repeats of Ruby in this AoC just because I like 
 
 ### [Day 5](https://adventofcode.com/2023/day/5) - Java
 
-I do not like Java. That's just me though. I can see it's applications and strengths but it's not for me. This day I used ChatGPT a *** Lot ***
+I do not like Java. That's just me though. I can see it's applications and strengths but it's not for me. This day I used ChatGPT a ***Lot***
 
 ### [Day 6](https://adventofcode.com/2023/day/6) - Ruby (again)
 
