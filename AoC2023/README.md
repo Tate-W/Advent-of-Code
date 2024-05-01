@@ -22,12 +22,12 @@ It was quick to pick up on but still quite the challenge.
 
 ### [Day 4](https://adventofcode.com/2023/day/4) - Ruby
 
-I really enjoy Ruby! I started doing the 2015 AoC in exclusively Ruby
+I really enjoy Ruby! I started doing the 2015 AoC in exclusively Ruby.
 I feel that there will be a few repeats of Ruby in this AoC just because I like it so much.
 
 ### [Day 5](https://adventofcode.com/2023/day/5) - Java
 
-No.
+I do not like Java. That's just me though. I can see it's applications and strengths but it's not for me. This day I used ChatGPT a ***Lot***
 
 ### [Day 6](https://adventofcode.com/2023/day/6) - Ruby (again)
 
