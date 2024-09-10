@@ -49,7 +49,7 @@ It was a pretty easy puzzle in terms of like actually programming it but by god 
 ### [Day 11](https://adventofcode.com/2015/day/11) 
 
 Heavy AI used here again. I'm still getting back into the groove and I feel like as I go through the puzzles, they keep getting harder.
-I learned a bit here but it was more of formatting and/or unique was to do things that are in Ruby that I just didn't know about.https://adventofcode.com/2015/day/11
+I learned a bit here but it was more of formatting and/or unique was to do things that are in Ruby that I just didn't know about.
 
 ### [Day 12](https://adventofcode.com/2015/day/12)
 
