@@ -49,4 +49,16 @@ It was a pretty easy puzzle in terms of like actually programming it but by god 
 ### [Day 11](https://adventofcode.com/2015/day/11) 
 
 Heavy AI used here again. I'm still getting back into the groove and I feel like as I go through the puzzles, they keep getting harder.
-I learned a bit here but it was more of formatting and/or unique was to do things that are in Ruby that I just didn't know about.
+I learned a bit here but it was more of formatting and/or unique was to do things that are in Ruby that I just didn't know about.https://adventofcode.com/2015/day/11
+
+### [Day 12](https://adventofcode.com/2015/day/12)
+
+TBD
+
+### [Day 13](https://adventofcode.com/2015/day/13)
+
+TBD
+
+### [Day 14](https://adventofcode.com/2015/day/14)
+
+This one was enjoyable! I was helping a friend with his CSC class and decided to do this puzzle in the meantime. It was fun to sit down and properly program again after so long(5 months since last commit fyi). Part 1 I did myself and even wrote it out logically on paper to figure out how I wanted to do it. Part 2 was made with my friend Mr.GPT. It did give me a chance to look at how I could improve part 1 but I elected to keep it how it was for posterity sake
