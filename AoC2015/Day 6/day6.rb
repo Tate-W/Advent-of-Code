@@ -49,5 +49,5 @@ def parse_command(command)
     end
 end
 
-input = File.read("Day 6/input.txt")
+input = File.read("AOC2015/Day 6/input.txt")
 puts work(input)
