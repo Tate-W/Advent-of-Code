@@ -18,7 +18,7 @@ def part1(info)
   info.each { |sub| sub.pop}
 
   top = 0
-# Balances the ingredients and stays under 100 total
+ # Balances the ingredients and stays under 100 total
   (0..100).each do |spr|
     (0..(100 - spr)).each do |pb|
       (0..(100 - spr - pb)).each do |fros|
@@ -55,7 +55,53 @@ def part1(info)
 
 end
 
-path = "AoC2015/Day 15/input.txt"
-data = parse(path)
+def part2(ins)
+  
+  top = 0
+  
+  # Balances the ingredients and stays under 100 total
+  (0..100).each do |spr|
+    (0..(100 - spr)).each do |pb|
+       (0..(100 - spr - pb)).each do |fros|
+  
+        sug = 100 - spr - pb - fros
+  
+        cap = dur = flav = text = cal = 0
+        
+        tbs = [spr, pb, fros, sug]
+  
+        tbs.each_with_index do |tb, i|
+            # Calculates the individual attribute values
+          cap += tb * ins[i][0]
+          dur += tb * ins[i][1]
+          flav += tb * ins[i][2]
+          text += tb * ins[i][3]
+          cal += tb * ins[i][4]
+  
+        end
+      
+          # Zeros out any negative values
+        cap = 0 if cap < 0
+        dur = 0 if dur < 0
+        flav = 0 if flav < 0
+        text = 0 if text < 0
+          # Calculate final score
+        score = cap * dur * flav * text
+          # Compare previous high score and replace if new score is higher
+        top = score if (top < score) && cal == 500
+  
+      end
+    end
+  end  
+  puts top
+end
 
+path = "AoC2015/Day 15/input.txt"
+
+data = parse(path)
+puts "Part 1"
 part1(data)
+
+data = parse(path)
+puts "Part 2"
+part2(data)
