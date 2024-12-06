@@ -116,7 +116,7 @@ def part2(data)
 
 end
 
-path = "/home/tatew/Desktop/Advent-of-Code/AoC2015/Day 14/input.txt"
+path = "AoC2015/Day 14/input.txt"
 
 #Data is an array of the reindeers and speed data
 data = parse(path)
