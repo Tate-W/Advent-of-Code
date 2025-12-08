@@ -1,16 +1,16 @@
 package main
 
-import( 
+import (
 	"bufio"
 	"fmt"
 	"log"
 	"os"
-	"strings"
 	"strconv"
+	"strings"
 )
 
 func main() {
-    
+
 	// Dial starts at 50
 	dial := 50
 	count := 0
@@ -29,9 +29,9 @@ func main() {
 	// Read in each line of the input.txt file
 	for scanner.Scan() {
 		line := scanner.Text()
-		
+
 		// Parsing out the direction char and rotation amount
-		var parse []string			
+		var parse []string
 		if strings.Contains(line, "R") {
 			parse = strings.SplitAfterN(line, "R", 2)
 		} else {
@@ -39,24 +39,32 @@ func main() {
 		}
 		direction := parse[0]
 		amount, _ := strconv.Atoi(parse[1])
+		rotations := amount / 100
+		amount = amount % 100
+
+		count += rotations
 
 		// Main Logic Block
-
 		if direction == "R" {
-			dial += amount
+			if (amount + dial) > 100 {
+				count++
+			}
+			dial = (amount + dial) % 100
 		} else {
-			dial -= amount
+			if amount > dial {
+				if dial != 0 {
+					count++
+				}
+				dial = (dial - amount) + 100
+			} else {
+				dial = dial - amount
+			}
 		}
-
-		// Implement over rotation logic
-		// Maybe count how many times over it goes?
-		// Unsure, fuckin optical migrane ahh coding session
 
 		if dial == 0 {
-			count += 1
+			count++
 		}
-		fmt.Println(dial)
-	
+
 	}
 	fmt.Println("Count:", count)
 }
